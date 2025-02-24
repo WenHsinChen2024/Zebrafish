@@ -49,10 +49,10 @@ The dataset is organized as follows:
 ```
 datasets/
 ├── Fish/
-        ├── images/          # High-resolution zebrafish X-ray images
+        ├── images/          # High-resolution zebrafish images
         ├── annotations/     # COCO format annotation files
 ├── Spine/
-        ├── images/          # High-resolution zebrafish spine X-ray images
+        ├── images/          # High-resolution zebrafish spine images
         ├── annotations/     # COCO format annotation files
 
 ```

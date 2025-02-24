@@ -35,7 +35,6 @@ If you use this dataset, please cite the following paper:
 ### **License & Usage Policy**  
 - This dataset is provided for **academic research purposes only**.  
 - Users **must cite our paper** when using this dataset in publications.  
-- If any of the images belong to you and you would like them removed, please contact us.
 
 ---
 

@@ -5,7 +5,7 @@ This repository contains the source code and datasets used in our research paper
 
 ## **Files**
 ```
-├── code/          # Contains the source code for data analysis and experiments.
+├── code/              # Contains the source code for data analysis and experiments.
 ├── datasets/          # Includes the datasets used in the research.
 ├── README.md          # This documentation file.
 ```
